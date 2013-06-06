@@ -1,0 +1,9 @@
+{
+    "name": "standalone", 
+    "license": "MPL 2.0", 
+    "author": "dietrich ayala", 
+    "version": "0.1", 
+    "fullName": "Standalone", 
+    "id": "jid1-2PnnfDuFGA7zzg", 
+    "description": "click the rocket to turn the current tab into a desktop app."
+}
