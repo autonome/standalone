@@ -2,7 +2,7 @@
     "name": "standalone", 
     "license": "MPL 2.0", 
     "author": "Dietrich Ayala", 
-    "version": "0.7", 
+    "version": "0.8", 
     "fullName": "Standalone", 
     "id": "jid1-2PnnfDuFGA7zzg", 
     "description": "Click the rocket icon to install the current tab as a desktop app!"
